@@ -1,5 +1,6 @@
 # HR-Analytics
-Problem Statement
+
+## Problem Statement
 Your client is a large MNC and they have 9 broad verticals across the organisation. One of the problem your client is facing is around identifying the right people for promotion (only for manager position and below) and prepare them in time. Currently the process, they are following is:
 
 They first identify a set of employees based on recommendations/ past performance
@@ -12,7 +13,7 @@ They have provided multiple attributes around Employee's past and current perfor
  
 
 |Dataset |Description|
-|___|___|
+|________|____________|
 |Variable	|Definition|
 |employee_id	|Unique ID for employee|
 |department|	Department of employee|
@@ -28,5 +29,5 @@ They have provided multiple attributes around Employee's past and current perfor
 ||avg_training_score|	Average score in current training evaluations|
 |is_promoted|	(Target) Recommended for promotion|
  
-Evaluation Metric
-The evaluation metric for this competition is F1 Score.
+## Evaluation Metric
+The evaluation metric for this competition is `F1 Score`.
