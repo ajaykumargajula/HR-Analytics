@@ -26,7 +26,7 @@ They have provided multiple attributes around Employee's past and current perfor
 |previous_year_rating|	Employee Rating for the previous year|
 |length_of_service|	Length of service in years|
 |KPIs_met >80%	|if Percent of KPIs(Key performance Indicators) >80% then 1 else 0|
-||avg_training_score|	Average score in current training evaluations|
+|avg_training_score|	Average score in current training evaluations|
 |is_promoted|	(Target) Recommended for promotion|
  
 ## Evaluation Metric
